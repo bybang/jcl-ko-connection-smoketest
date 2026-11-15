@@ -1,0 +1,1 @@
+# jcl-ko-connection-smoketest
