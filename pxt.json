@@ -1,0 +1,15 @@
+{
+  "name": "jcl-ko-connection-smoketest",
+  "description": "JCL-authored Korean display-only connection test",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "smoke.md"
+  ],
+  "supportedTargets": [
+    "minecraft"
+  ],
+  "preferredEditor": "tsprj"
+}
