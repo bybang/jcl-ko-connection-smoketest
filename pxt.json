@@ -6,7 +6,8 @@
   },
   "files": [
     "main.ts",
-    "smoke.md"
+    "smoke.md",
+    "activity1-ko.md"
   ],
   "supportedTargets": [
     "minecraft"
